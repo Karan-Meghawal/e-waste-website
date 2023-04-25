@@ -123,3 +123,8 @@ button{
         ;
     }
   }
+@media screen and (max-width: 660px) {
+    .about-img{
+        width: 450px;
+    }
+  }
